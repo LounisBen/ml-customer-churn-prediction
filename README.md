@@ -56,7 +56,7 @@ Il réalise **331 bonnes prédictions sur 400**.
 
 ## Matrice de confusion
 
-![Matrice de confusion](IMAGES/confusion_matrix.png)
+![Matrice de confusion](IMAGES/matrice_de_confusion.png)
 
 La matrice montre que le modèle identifie correctement :
 
